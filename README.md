@@ -5,4 +5,5 @@ Note:
 
 2.)Final Output: 
 OFF --> Don't need  Water(off)
-On  --> need Water(on)
+
+ON  --> need Water(on)
